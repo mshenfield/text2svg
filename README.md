@@ -1,8 +1,6 @@
 #text2svg
 text2svg is a command line tool that turns texts into an array of SVG Path data.  The output can be copied over into projects to let you map objects onto a font path.
 
-See the example application 
-
 ## Install
 Good old git:
 
